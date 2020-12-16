@@ -51,3 +51,15 @@ Property_Area	Urban/ Semi Urban/ Rural
 
 ## Overview:
 This is a Classification problem, in this project tried to predct the Applicant would get a loan approval or not. on the basis of 13 attributes and got to know that Applicant Gender, Applicant is Self_Employed or not, CoapplicantIncome, LoanAmount, Property_Area	Urban/ Semi Urban/ Rural don't matter for loan approval.
+
+### Goal
+1- Exploratory Data Analysis(EDA)
+2- Handle Missing Values
+3- Handle Categorical Values
+4- Apply Transformation Technique's to make Norammly Distributed
+5- Feature Selection
+6- Feature Scaling
+7- Model Selection
+8- Model Training
+9- Hyperparameter Tuning
+10- Prediction on Test Dataset 
