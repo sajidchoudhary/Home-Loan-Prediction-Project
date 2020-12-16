@@ -55,8 +55,8 @@ This is a Classification problem, in this project tried to predct the Applicant 
 ### Goal
 1- Exploratory Data Analysis(EDA)
 2- Handle Missing Values
-3- Handle Categorical Values
-4- Apply Transformation Technique's to make Norammly Distributed
+3- Handle Categorical feature
+4- Apply Transformation Technique's to make Normally Distributed
 5- Feature Selection
 6- Feature Scaling
 7- Model Selection
