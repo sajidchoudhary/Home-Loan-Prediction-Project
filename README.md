@@ -12,7 +12,7 @@ segments that are eligible for loan amount so that they can specifically target 
 
 
 
-ata Dictionary
+Data Dictionary
 Train file: CSV containing the customers for whom loan eligibility is known as 'Loan_Status'
 
 Variable	
@@ -46,3 +46,8 @@ LoanAmount
 Loan_Amount_Term	
 Credit_History
 Property_Area	Urban/ Semi Urban/ Rural
+
+![PngItem_1606390](https://user-images.githubusercontent.com/66259814/102383174-47d8f080-3ff1-11eb-9a0c-826a8fa986f1.png)
+
+## Overview:
+This is a Classification problem, in this project tried to predct the Applicant would get a loan approval or not. on the basis of 13 attributes and got to know that Applicant Gender, Applicant is Self_Employed or not, CoapplicantIncome, LoanAmount, Property_Area	Urban/ Semi Urban/ Rural don't matter for loan approval.
