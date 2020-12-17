@@ -2,9 +2,8 @@
 
 ## Content
 
-
 ### Overview:
-This is a Classification problem, in this project predct the Applicant would get a loan approval or not. on the basis of 13 attributes and got to know that Applicant Gender, Applicant is Self_Employed or not, CoapplicantIncome, LoanAmount, Property_Area	Urban/ Semi Urban/ Rural don't matter for loan approval.
+This is a Classification problem, in this project predct the Applicant would get a loan approval or not. on the basis of 13 attributes almost 70% of applicant got approval for loan and got to know that Applicant Gender, Applicant is Self_Employed or not,Applicant Income, Co-Applicant Income, LoanAmount, Property_Area	Urban/ Semi Urban/ Rural are not important for getting loan approval.
 
 ![PngItem_1606390](https://user-images.githubusercontent.com/66259814/102383174-47d8f080-3ff1-11eb-9a0c-826a8fa986f1.png)
 
