@@ -63,3 +63,6 @@ LoanAmount
 Loan_Amount_Term	
 Credit_History
 Property_Area	Urban/ Semi Urban/ Rural
+
+### Source of Dataset:
+https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
