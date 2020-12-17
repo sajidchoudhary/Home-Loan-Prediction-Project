@@ -14,7 +14,7 @@ segments that are eligible for loan amount so that they can specifically target 
 
 
 ## Overview:
-This is a Classification problem, in this project tried to predct the Applicant would get a loan approval or not. on the basis of 13 attributes and got to know that Applicant Gender, Applicant is Self_Employed or not, CoapplicantIncome, LoanAmount, Property_Area	Urban/ Semi Urban/ Rural don't matter for loan approval.
+This is a Classification problem, in this project predct the Applicant would get a loan approval or not. on the basis of 13 attributes and got to know that Applicant Gender, Applicant is Self_Employed or not, CoapplicantIncome, LoanAmount, Property_Area	Urban/ Semi Urban/ Rural don't matter for loan approval.
 
 ### Goal
 1- Exploratory Data Analysis(EDA)
